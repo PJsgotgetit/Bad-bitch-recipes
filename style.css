@@ -1,0 +1,21 @@
+img{
+  height: 250px;
+}
+h1{
+  font-size: 75px;
+  color: orangered;
+  text-align: center;
+}
+h2{
+  color: orange;
+  font-size: 20pt;
+  text-align: center;
+  text-decoration: underline wavy;  
+
+}
+p{
+  font-size: 18pt ;
+}
+ul{
+  font-size: 14pt;
+}
